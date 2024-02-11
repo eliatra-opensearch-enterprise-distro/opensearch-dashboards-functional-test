@@ -93,7 +93,21 @@ fi
 
 . ./test_finder.sh
 
-npm install
+echo "### NPM INVESTIGATE"
+
+pwd
+ls -la
+which npm || true
+
+echo "### End NPM INVESTIGATE"
+
+>&2 echo "Going to do npm install"
+>&2 echo ""
+
+$(which npm) install || true
+
+>&2 echo ""
+>&2 echo "Did npm install"
 
 TEST_FILES=`get_test_list $TEST_COMPONENTS`
 echo -e "Test Files List:"
