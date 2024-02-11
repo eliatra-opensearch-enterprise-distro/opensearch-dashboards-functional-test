@@ -1,39 +1,21 @@
-![OpenSearch logo](OpenSearch.svg)
+# Eliatra OpenSearch Enterprise Distro (EOED) - Long Term Support for OpenSearch
 
-- [Welcome!](#welcome)
-- [Project Resources](#project-resources)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Copyright](#copyright)
+This repository is part of the Eliatra OpenSearch Enterprise Distro (EOED).
 
-## Welcome!
+## Questions?
 
-**Open Search Dashboards Functional Test** maintains functional tests for [OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards). It can run against bundled endpoint for release signoff. It is licensed under the [Apache v2.0 License](LICENSE.txt).
-
-## Project Resources
-
-- [Project Website](https://opensearch.org/)
-- [Downloads](https://opensearch.org/downloads.html).
-- [Documentation](https://docs-beta.opensearch.org/)
-- Need help? Try [Forums](https://discuss.opendistrocommunity.dev/)
-- [Project Principles](https://opensearch.org/#principles)
-- [Maintainer Responsibilities](MAINTAINERS.md)
-- [Release Management](RELEASING.md)
-- [Admin Responsibilities](ADMINS.md)
-- [Security](SECURITY.md)
-
-## Contributing
-
-See [contributing guide](CONTRIBUTING.md).
-
-## Code of Conduct
-
-This project has adopted the [Amazon Open Source Code of Conduct](CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
+Please refer to https://eliatra.com/opensearch-enterprise-distro or ask your questions in our [Forum](https://forum.eliatra.com).
 
 ## License
 
-This project is licensed under the [Apache v2.0 License](LICENSE.txt).
+This project is licensed under a [commercial License](LICENSE.txt).
 
 ## Copyright
 
-Copyright OpenSearch Contributors. See [NOTICE](NOTICE.txt) for details.
+Copyright Eliatra. See [NOTICE](NOTICE.txt) for details.
+
+## Trademark
+
+OpenSearch is a registered trademark of Amazon Web Services.
+
+OpenSearch includes certain Apache-licensed Elasticsearch code from Elasticsearch B.V. and other source code. Elasticsearch B.V. is not the source of that other source code. ELASTICSEARCH is a registered trademark of Elasticsearch B.V.
