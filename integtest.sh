@@ -93,7 +93,17 @@ fi
 
 . ./test_finder.sh
 
-npm install
+echo "### NPM INVESTIGATE"
+
+pwd
+ls -la
+which npm || true
+find / -name npm || true
+
+
+echo "### End NPM INVESTIGATE"
+
+$(which npm) install || true
 
 TEST_FILES=`get_test_list $TEST_COMPONENTS`
 echo -e "Test Files List:"
